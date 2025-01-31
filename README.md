@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gajula Mahendra</h1>
+<h1 align="center">Hi 👋, I'm G Mahendra</h1>
 <h3 align="center">🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
